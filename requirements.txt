@@ -1,0 +1,21 @@
+# Core numerical & data handling
+numpy
+pandas
+
+# Machine Learning (offline training + inference)
+scikit-learn
+joblib
+
+# Backend API (Service-Oriented Architecture)
+fastapi
+uvicorn
+pydantic
+
+# Frontend visualization
+streamlit
+
+# Testing
+pytest
+
+# Visualization (optional but useful)
+matplotlib
